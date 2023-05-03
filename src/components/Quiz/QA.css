@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Gotu&family=Hind+Vadodara:wght@300&family=IBM+Plex+Sans+Thai+Looped:wght@600&family=Inter:wght@500&family=Kanit:wght@400;700&family=Public+Sans:wght@300&display=swap");
+
+.QA-container {
+  /* width: 80%; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 4%;
+}
+
+.question {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+
+  color: #353535;
+}
+
+.options-container {
+  margin-top: 5%;
+}
+
+.option {
+  background: #284b63;
+  border-radius: 10px;
+  width: 575px;
+  height: 35px;
+  margin: 10px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 31px;
+
+  color: #f4ecec;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  padding: 10px;
+}
+
+.option:hover {
+  cursor: pointer;
+}
+
+.progress-bar-container {
+  background: #d9d9d9;
+  border-radius: 20px;
+  width: 1123px;
+  height: 5px;
+}
