@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stress-paradigm/static/css/main.c76b068f.css",
-    "main.js": "/stress-paradigm/static/js/main.d557fce1.js",
+    "main.js": "/stress-paradigm/static/js/main.0a2673fd.js",
     "static/js/787.a0cab210.chunk.js": "/stress-paradigm/static/js/787.a0cab210.chunk.js",
     "index.html": "/stress-paradigm/index.html",
     "main.c76b068f.css.map": "/stress-paradigm/static/css/main.c76b068f.css.map",
-    "main.d557fce1.js.map": "/stress-paradigm/static/js/main.d557fce1.js.map",
+    "main.0a2673fd.js.map": "/stress-paradigm/static/js/main.0a2673fd.js.map",
     "787.a0cab210.chunk.js.map": "/stress-paradigm/static/js/787.a0cab210.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c76b068f.css",
-    "static/js/main.d557fce1.js"
+    "static/js/main.0a2673fd.js"
   ]
 }
